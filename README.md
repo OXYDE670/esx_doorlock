@@ -9,8 +9,8 @@ Ce script a été développé à l'origine par OXYDE#0001.
 
 
 ### Manually
-- Download 
-- Put it in the `[esx]` directory
+- Download https://github.com/OXYDE670/esx_doorlock
+- Mettez-le dans le `[esx]`
 
 ## Installation
 - Ajoutez ceci à votre `server.cfg`:
