@@ -1,7 +1,6 @@
 # esx_doorlock
 Il s'agit d'un script de verrouillage de porte pour ESX, qui est utilisé pour verrouiller certaines portes qui ne devraient pas être accessibles aux citoyens normaux.
 
-Ce script a été développé à l'origine par OXYDE#0001.
 
 ### Features
 - Script bien optimisé
